@@ -1,4 +1,4 @@
-Alpha? Omega? What is Alpha? What is Pre-multiplication
+## <WEEK 01. Alpha? Omega? What is Alpha? What is Pre-multiplication>
 
 # Digital
 디지털은 0과 1의 2진수로 표시되는 모든 전자기술을 말하며 아날로그 색채를 제외한 모니터와 컴퓨터상의 데이터에 해당하는 모든 색채 범위를 말한다. 디지털 색채체계는 현색계에서 표현할 수 없는 색좌표를 입출력을 할 수 있다. 이러한 각각의 상태를 컴퓨터의 최소단위인 비트(Bit)라고 한다. 8개의 비트가 모여 1Byte가 된다.
