@@ -1,4 +1,4 @@
-### <Week 03. Visual Languages for compositing I Digital Matte Painting I>
+# <Week 03. Visual Languages for compositing I Digital Matte Painting I>
 
 
 
