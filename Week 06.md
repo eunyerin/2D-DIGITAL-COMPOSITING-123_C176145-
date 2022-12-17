@@ -33,7 +33,7 @@ Merge Operation은 매트 합성과 블랜딩 합성으로 분류할 수 있음.
 
 ## Merge Node
 
-![merge](https://user-images.githubusercontent.com/112792903/208256388-4f77dc35-4d02-4da9-a509-8e521c10ac4b.PNG)
+![2](https://user-images.githubusercontent.com/112792903/208256420-a943f800-3e0c-4bba-a510-a6b974c754e9.PNG)
 
 머지노드에는 A라인과 B라인이 있음. 속성 창에는 Over가 기본적으로 설정되어있는데 가장 많이 사용하기 때문이다.
 합성 공식을 이해하기 위해서는 matte Aa + B(1-a)를 예시로 파악. 이 공식에서 A는 머지의 A라인을 의미. (B도 만찬가지임)
