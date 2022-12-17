@@ -37,6 +37,8 @@
 
 ![gradeNode](https://user-images.githubusercontent.com/112792903/208253753-84181747-3c9a-466e-95e5-d9dfe46c2fc2.png)
 
+(영상 출처. 홍익대학교 2D 디지털합성 금123 강의 녹화본 캡쳐)
+
 1. 프로젝트 세팅에 포맷
 Constant에 작업을 시작 -> 머지 노드로 합치기 -> 머지에서 set box to B(B가 가지고 있던 크기로 맞춰줌) -> 이미지가 720에 전부 들어오게 하고 싶다 transform: 원하는 위치에 이미지를 놓을 수 있음+filter를 cubic 걍 건들지 말아라, reformat: resize type에서 (nuke node concatenation) -> 푸티지 2개의 사이즈가 안 맞으면 crop을 하거나 reformat을 해야. black outside는 밖의 영역은 그냥 블랙으로. 리사이즈 none+black outside -> 이렇게 한 후 로토 작업 아님 로토 작업 후 transform
 
