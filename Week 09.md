@@ -1,5 +1,9 @@
 # <WEEK 09. Mid-term Presentation>
 
+
+![dddd](https://user-images.githubusercontent.com/112792903/208257067-e88a7dd1-abe1-4da1-a4ec-2343658ee1f5.PNG)
+
+
 ## 크리틱
 1. 뒤의 배경이 가려져서 아쉽다. 배경은 블러 처리를 해서 포멀 포인트가 명확하게 설정되어 있어야 한다.
 2. 펭귄의 로토 스코핑이 정교하게 이뤄지지 못했다. 또한 앞서 말한 것처럼 그림자가 없어 자연스러운 느낌이 없다.
