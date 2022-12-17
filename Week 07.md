@@ -3,8 +3,8 @@
 ## Chroma key
 
 1. 크로마키란?
-![crewcallsupret-1204x630](https://user-images.githubusercontent.com/112792903/208255515-b65c6b5b-d0a5-464d-b9f3-ccb566e79611.jpg)
 
+![crewcallsupret-1204x630](https://user-images.githubusercontent.com/112792903/208255515-b65c6b5b-d0a5-464d-b9f3-ccb566e79611.jpg)
 
 영상에서 가장 많이 사용되는 시각 효과 기술 중 하나이다. 영상 촬영 시 배경이 되는 그린, 블루 스크린 또는 화면 합성 기술로 불린다.
 합성할 인물을 단색 판을 배경으로 촬영한 뒤, 그 화면에서 배경색을 제거해 거기에 다른 영상을 집어넣는 것이다.
@@ -23,6 +23,8 @@
 
 
 ## Keyers
+
+![large_Keying_Tips_in_Nuke_PT_1_2](https://user-images.githubusercontent.com/112792903/208255557-854b66af-5be2-4603-bb32-3161fb458898.jpg)
 
 (Utility)
 
