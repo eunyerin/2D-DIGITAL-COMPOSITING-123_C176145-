@@ -45,5 +45,10 @@ Constant에 작업을 시작 -> 머지 노드로 합치기 -> 머지에서 set b
 -> 포토샵 png로 한 후 누크 합칠 때는 pre multi     
 
 ## Color correct node
+
 saturation 정도만 사용하는 것이 좋음. 심지어 saturation node가 따로 있음.
+Color > Saturation 순서로 내가 원하는 스크립트에 연결시키기
+Viewer에 연결시키면은 효과가 변화하는 것을 한 눈에 볼 수 있음
+원하는 색상 값으로 Saturation 조절하기
+
 
