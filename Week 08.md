@@ -12,6 +12,8 @@
 
 ## Grade
 
+![gradeNode](https://user-images.githubusercontent.com/112792903/208253386-b255a343-b99b-4119-a0fd-34c8b41ae569.png)
+
 1. merge 노드 A, B input
 2. 파일 외장하드: preference-localization (외장하드의 무거운 파일들을 local에 복사하는 기능. storage용량을 늘려주기 60GB) Localization policy on하면 푸티지 초록색으로 바뀜.
 3. Grade 노드: 화이트 밸런스를 맞추는 역할을 할 수 있음. 
