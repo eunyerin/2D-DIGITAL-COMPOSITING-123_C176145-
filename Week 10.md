@@ -12,6 +12,8 @@
 
 ## 기능
 
+![maxresdefault (1)](https://user-images.githubusercontent.com/112792903/208256960-c5711cfb-7908-4168-9ec1-dbb6da94b58e.jpg)
+
 - 트래커-애드트랙/트랙마커-원하는 지점에 클릭.
 - 활성화되면 계속 추가할 수 있음. 
 - 트래킹을 할 때는 뷰어가 정확하게 보여주지 않는 경우도 있음. 
