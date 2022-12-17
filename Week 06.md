@@ -1,4 +1,4 @@
-# <WEEK 06. Merge Node>
+# <WEEK 06. Introduction Nuke. Merge Node>
 
 ## 크리틱
 
@@ -40,6 +40,13 @@ Merge Operation은 매트 합성과 블랜딩 합성으로 분류할 수 있음.
 소문자 a는 A라인에거 들어오는 알파 채널을 의미. R, G, B를 A까지라 생각하면 됨. 여기서 알차가 a라 생각하면 쉬움.
 (1-a)는 A라인에서 들어온 알파 채널을 빼준다는 의미. 그렇게 되면 알파 채널 마스크에 반전이 일어나게 된다.
 즉 A라인으로 드러오는 RGBa가 마스크와 곱해지게 된다는 의미. 1과 어떠한 영상이라도 곱해지면 원래의 기본값을 가지게 됨.
+
+
+## Merge Operation
+
+![2](https://user-images.githubusercontent.com/112792903/208256493-4c2d8266-1c87-41a8-9c11-7d5e408736bc.PNG)
+
+Merge Operation의 계산법을 알면 조금 더 심도 깊은 작업을 진행할 수는 있으나. 지금 단계에서는 천천히 다양하게 활욯해보기.
 
 
 
