@@ -20,6 +20,7 @@
 
 ## Merge
 
+![merge](https://user-images.githubusercontent.com/112792903/208256338-8afa2885-eb95-4594-8b85-246b3ea0ceb1.PNG)
 
 머지는 가장 기본적이고 핵심적인 기능. 머지 노드는 다중 이미지를 병합할 때 사용되는데 다양한 결합 연산의 알고리즘을 통하여
 원하는 계산 값의 결과를 얻어낼 수 있다.
@@ -31,6 +32,8 @@ Merge Operation은 매트 합성과 블랜딩 합성으로 분류할 수 있음.
 이해하는 것이 중요.
 
 ## Merge Node
+
+![merge](https://user-images.githubusercontent.com/112792903/208256388-4f77dc35-4d02-4da9-a509-8e521c10ac4b.PNG)
 
 머지노드에는 A라인과 B라인이 있음. 속성 창에는 Over가 기본적으로 설정되어있는데 가장 많이 사용하기 때문이다.
 합성 공식을 이해하기 위해서는 matte Aa + B(1-a)를 예시로 파악. 이 공식에서 A는 머지의 A라인을 의미. (B도 만찬가지임)
