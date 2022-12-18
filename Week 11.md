@@ -23,5 +23,29 @@ CornerPin2D 노드는 추적 데이터에서 추출한 위치에 영상 시퀀�
 
 ## 3D Camera Tracking
 
-![다운로드](https://user-images.githubusercontent.com/112792903/208293849-afd7d36d-166c-401d-9e7f-cc0240e3b38d.jpeg)
+![maxresdefault (3)](https://user-images.githubusercontent.com/112792903/208293873-0b9ee955-fab7-4fa0-839c-759f9f7fbb63.jpg)
 
+Nuke의 CameraTracker 노드는 내장 카메라 추적 또는 매치 이동 도구로 구성되어 있음. 원래의 카메라와 같은 움직임을 가지는 가상 카메라를 만들어 내는 것.
+2D 영상으로 카메라의 움직임을 추적하면 2D 영상에 가상 3D 객체를 추가할 수도 있음.
+CameraTracker 노드를 사용하여 카메라 동작을 2D 시퀀스 또는 스틸로 추적하여 애니메이션 3D 카메라, 예를 들어 구름이 떠다닌 등 장면을 만들 수 있음.
+
+준비해야 할 노드
+
+![ct2_create_scene2](https://user-images.githubusercontent.com/112792903/208294284-944f2931-ffcb-4f90-b03b-6a05e379809d.png)
+
+
+각 3D 장면에는 Scene, Camera, Card, ScanlineRender이 필요함. Scene노드는 Card 노드로부터 출력하여 이러한 객체의 합성을
+ScanlineRender 노드로 전송하면 Viewer에 연결시키면 완성
+
+- Camera : Scene 노드 와 ScanlineRender(스캔라인 렌더) 노드에 연결할 수 있습니다. ScanlineRender 노드에 연결된 카메라는 렌더링에 사용되는 카메라임.
+ 
+ (과정)
+ 
+   1.3D > Camera를 선택.
+   2. Camera 노드에서 Scene 노드로 드래그 연결 혹은 Camera 노드를 ScanlineRender 노드에 연결.
+      
+- Scene : 스크립트에서 위치에 관계없이 3D 작업영역의 모든 요소에 필요한 것. 
+- Card : 사용하고자 하는 객체. Sphere Cube 다양하게 있음
+- ScanlineRender : 스크립트의 모든 scene 노드는 스캔라인렌더 노드에 연결해야 함. 
+                   스캔라인렌더 노드는 누크에 씬scene 결과를 렌더링하도록 지시해줌.
+                   ScanlineRender 노드를 사용하여 씬에서 2D와 3D를 전환하며 볼수 있음 (Tab 키) 
