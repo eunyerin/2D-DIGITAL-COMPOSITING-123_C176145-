@@ -4,7 +4,7 @@
 
 누크란?!
 
-[다운로드](https://user-images.githubusercontent.com/112792903/208293218-7436caaa-b4e7-4379-8587-381646120282.png)
+![nuke](https://user-images.githubusercontent.com/112792903/208293255-da539bb7-74f5-416c-8073-0fa0eaed686f.png)
 
 Nuke - 합성, 편집 툴
 누크는 강력한 노드 기반의 합성 도구. 블록버스터, 애니메이션 또는 에피소드 콘텐츠에 초점을 맞춘
