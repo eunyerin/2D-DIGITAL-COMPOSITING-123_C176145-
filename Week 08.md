@@ -35,7 +35,9 @@
 
 ## 색이 매치되지 않은 상황일 경우
 
+
 ![gradeNode](https://user-images.githubusercontent.com/112792903/208253753-84181747-3c9a-466e-95e5-d9dfe46c2fc2.png)
+
 
 (영상 출처. 홍익대학교 2D 디지털합성 금123 강의 녹화본 캡쳐)
 
@@ -45,6 +47,7 @@ Constant에 작업을 시작 -> 머지 노드로 합치기 -> 머지에서 set b
 -> w키 merge a, b에 놓고. -> rgb 개별 채널로 놀고 보라-> 항상 어두운 부분부터 작업-> 0.0a -> gain 수치 밝은 부분 -> 노드 그룹 backdrop node -> 로토 알파-> premult -> 저 두 플레이트 사이에 연기 소스 -> 머지 -> 노드 그래프 정리 중요
 
 -> 포토샵 png로 한 후 누크 합칠 때는 pre multi     
+
 
 ## Color correct node
 
