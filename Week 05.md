@@ -1,6 +1,9 @@
 # <WEEK 05. Visual Language>
 
 <Visual language for storytelling>
+   
+![maxresdefault (1)](https://user-images.githubusercontent.com/112792903/208294967-c5b8af12-f382-4e76-9100-6d426daf12c6.jpg)
+  
 
 ## Contrast: 
    질감에 대한 차이를 이용한다면 효과적으로 구분할 수 있음. value에 대한 포컬포인트를 맞추고 물체의 텍스처와 콘트라스트를 정하면 됨.
