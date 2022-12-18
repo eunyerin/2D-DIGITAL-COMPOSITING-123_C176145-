@@ -46,6 +46,7 @@ Merge Operation은 매트 합성과 블랜딩 합성으로 분류할 수 있음.
 머지 연산식은 누크의 워크플로우를 이해하는데 필수적이라 할 수 있음. 좀 더 심도 깊은 표현은 위해서는 Merge의 Operation 연산 과정을
 이해하는 것이 중요.
 
+
 ## Merge Node
 
 ![2](https://user-images.githubusercontent.com/112792903/208256420-a943f800-3e0c-4bba-a510-a6b974c754e9.PNG)
