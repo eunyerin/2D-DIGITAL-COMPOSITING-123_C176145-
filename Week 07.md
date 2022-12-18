@@ -1,5 +1,6 @@
 # <WEEK 07. Chroma keying & Dispill>
 
+
 ## Chroma key
 
 1. 크로마키란?
@@ -42,6 +43,7 @@
 7. IBKGIZMO : [IBK Gizmo , IBK colour] 2개의 노드는 항상 같이 사용하는 패키지 개념. IBK colour에서 patch black 수치만 올려서, 손쉽게 클린플레이트를 만들 수 있다.
               IBK Gizmo node 거의 옵션을 건들지 않음. 매트 촬영시 소프트 헤어 처리할 수 있음.
 8. Chroma Keyer
+
 
 ## Soft Key, Hard Key + Key Mix
 
