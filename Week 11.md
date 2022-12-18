@@ -39,11 +39,13 @@ ScanlineRender 노드로 전송하면 Viewer에 연결시키면 완성
 
 - Camera : Scene 노드 와 ScanlineRender(스캔라인 렌더) 노드에 연결할 수 있습니다. ScanlineRender 노드에 연결된 카메라는 렌더링에 사용되는 카메라임.
  
- (과정)
+ 
+ ※과정
  
    1.3D > Camera를 선택.
    2. Camera 노드에서 Scene 노드로 드래그 연결 혹은 Camera 노드를 ScanlineRender 노드에 연결.
-      
+   
+   
 - Scene : 스크립트에서 위치에 관계없이 3D 작업영역의 모든 요소에 필요한 것. 
 - Card : 사용하고자 하는 객체. Sphere Cube 다양하게 있음
 - ScanlineRender : 스크립트의 모든 scene 노드는 스캔라인렌더 노드에 연결해야 함. 
