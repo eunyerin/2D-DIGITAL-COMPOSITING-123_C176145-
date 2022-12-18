@@ -1,4 +1,4 @@
-<WEEK 12. Weekely Research>
+# <WEEK 12. Weekely Research>
 
 ## 3D Compositing
 
@@ -18,5 +18,26 @@
 
 
 ## Sharpen
+
+Sharpen : 이미지를 선명하게 만들어 주는 노드
+
+
+## Final Reference Image
+
+1. ![KakaoTalk_20221125_090536282](https://user-images.githubusercontent.com/112792903/208295628-4d0165ed-efae-44c3-a578-d720009761f4.jpg)
+
+2. ![KakaoTalk_20221125_090536282_03](https://user-images.githubusercontent.com/112792903/208295631-7e62b9be-eefa-44c6-a6fd-1e836e3fe753.jpg)
+
+3. ![KakaoTalk_20221125_090536282_04](https://user-images.githubusercontent.com/112792903/208295637-12332569-20c2-4f1d-accb-5009112022b4.jpg)
+
+4. ![KakaoTalk_20221125_090536282_05](https://user-images.githubusercontent.com/112792903/208295640-1dd9a576-957f-4e08-88e3-c351c47c974f.jpg)
+
+5. ![KakaoTalk_20221125_090536282_06](https://user-images.githubusercontent.com/112792903/208295648-ff637948-a3af-4b56-8719-7511dd92c826.jpg)
+
+6. ![KakaoTalk_20221125_090536282_07](https://user-images.githubusercontent.com/112792903/208295654-72817566-53c7-4bbe-88b0-614e7cc5fba5.jpg)
+
+
+
+
 
 
